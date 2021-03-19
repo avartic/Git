@@ -1,3 +1,2 @@
-Feature: Adjusted feature summary
-
-  Some correct data to be displayed
+Feature: First feature created
+  some changes
