@@ -1,3 +1,3 @@
 Feature: Adjusted feature summary
 
-  Some dummy data
+  Some correct data to be displayed
