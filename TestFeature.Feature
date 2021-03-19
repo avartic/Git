@@ -1,1 +1,1 @@
-Feature: First feature created
+Feature: Adjusted feature summary
